@@ -1,1 +1,1 @@
-
+EZq is the hosiptalque management system where we use ngnix redix and backend  to mainatiin que with people are update with exixting tokenn umber
